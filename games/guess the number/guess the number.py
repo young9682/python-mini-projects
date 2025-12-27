@@ -15,3 +15,6 @@ while time < 10:
         break
 else:
     print(f"Sorry, you've used all 10 attempts. The number was {number}.")
+
+
+    

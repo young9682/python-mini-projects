@@ -1,3 +1,2 @@
 # python-mini-projects
-Just for fun ....And ENJOY!!!
-# 
+Just for _fun_ ....And **ENJOY!!!**
